@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "schedule": {"sessions_per_week": 3, "session_minutes": 120, "calendar_fixed": false},
+  "profile": {"entry_level": "Python developer", "track": "balanced", "diagnostic_completed": false},
+  "current_session": "S001",
+  "completed_sessions": [],
+  "completed_labs": [],
+  "assessment_history": [],
+  "weak_skills": [],
+  "review_queue": [],
+  "approval_required_for_changes": true,
+  "total_sessions": 144
+}
